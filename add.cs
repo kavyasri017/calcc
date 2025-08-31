@@ -1,6 +1,5 @@
-<<<<<<< HEAD
-igggggggggg
-=======
+HEAD
+igggggg
 gggggggggg
 
 
@@ -21,9 +20,7 @@ A
 A
 
 gigigigigB
-B
-
->>>>>>> f6f046d68f0fcd55edf6b8fb7e696b4fa6d7c602
+Bf6f046d68f0fcd55edf6b8fb7e696b4fa6d7c602
 
 HEAD
 
@@ -33,7 +30,7 @@ A
 A
 C
 C
-A0[
+A0
 A
 A
 A
